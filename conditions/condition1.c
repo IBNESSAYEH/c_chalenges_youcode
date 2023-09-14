@@ -10,11 +10,11 @@ int main()
     reste = nbr % 2;
     if (reste == 0)
     {
-        printf("paire");
+        printf("votre nombre est paire");
     }
     else
     {
-        printf("impaire");
+        printf("votre nombre est impaire");
     }
 
     return 0;

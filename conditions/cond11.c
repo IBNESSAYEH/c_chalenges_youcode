@@ -33,8 +33,7 @@ int main()
     case 7:
         printf("dimanche");
         break;
-    default:
-        break;
+
     }
 
     return 0;
